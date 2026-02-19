@@ -32,6 +32,7 @@ This will make all skills in this repository available to your AI agent automati
 | Skill                            | Description                                                                                                            |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `git-best-practices`             | Best practices for Git workflows and branching strategies                                                              |
+| `readme-creator`                 | Creates high-quality, standardized README.md files for open-source software projects                                  |
 
 ## Usage
 
@@ -39,6 +40,7 @@ Once installed, your AI agent will automatically discover and use these skills w
 
 - Create a new Git branch to implement a feature
 - Merge a pull request following best practices
+- Write a README for my project
 
 ## Learn More
 
@@ -50,7 +52,7 @@ To add or modify skills:
 
 1. Each skill must have its own directory
 2. Each skill directory must contain a `SKILL.md` file with instructions
-3. You can use `anthropic/skill-creator` for creating effective skills
+3. You can use [`anthropic/skill-creator`](https://skills.sh/anthropics/skills/skill-creator) for creating effective skills
 
 ## License
 
