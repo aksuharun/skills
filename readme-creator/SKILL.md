@@ -1,6 +1,6 @@
 ---
 name: readme-creator
-description: Creates high-quality, standardized README.md files for software projects suitable for open-source GitHub repositories. Use when asked to create, write, or generate a README for any software project, library, tool, or application. Triggers on requests like "write a README", "create a README.md", "create documentation for my project", or similar.
+description: Creates high-quality, standardized README.md files for software projects suitable for open-source repositories. Use when asked to create or update a README.
 ---
 
 # README Creator
