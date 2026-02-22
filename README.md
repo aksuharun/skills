@@ -42,6 +42,7 @@ This makes all skills in this repository available to your AI agent automaticall
 | `lucide-icons` | Use Lucide icons correctly across React, Vue, Svelte, Solid, Preact, Angular, Astro, React Native, Vanilla JS, and static environments |
 | `raison-sdk` | Raison JavaScript/TypeScript prompt management SDK for rendering templates and querying prompt data |
 | `readme-creator` | Creates high-quality, standardized README.md files for open-source software projects |
+| `reka-ui` | Use when building accessible Vue.js interfaces with Reka UI (Radix Vue) |
 
 ## Usage
 
@@ -51,6 +52,7 @@ Once installed, your AI agent will automatically discover and use these skills w
 - *Write a README for my project*
 - *Set up Raison SDK to manage prompts in my Express app*
 - *Add a Lucide icon to my React component*
+- *Add an accessible accordion with Reka UI to my Vue application*
 
 ## Learn More
 
