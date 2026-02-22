@@ -32,6 +32,7 @@ This will make all skills in this repository available to your AI agent automati
 | Skill                            | Description                                                                                                            |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | `git-best-practices`             | Best practices for Git workflows and branching strategies                                                              |
+| `lucide-icons`                   | Use Lucide icons correctly across React, Vue, Svelte, Solid, Preact, Angular, Astro, React Native, Vanilla JS, and static environments |
 | `readme-creator`                 | Creates high-quality, standardized README.md files for open-source software projects                                  |
 
 ## Usage
