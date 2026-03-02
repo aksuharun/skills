@@ -1,13 +1,6 @@
 ---
 name: git-best-practices
-description: |
-  Git best practices for commit messages and branch workflow. Use when:
-  - Writing, reviewing, or advising on a git commit message
-  - Advising on branching strategy, merging, or rebasing
-  - Setting up or explaining a team Git workflow
-  - Preparing or reviewing a pull request
-  - Resolving or advising how to avoid merge conflicts
-  - Any task involving git history, linear history, or PR hygiene
+description: Git best practices for commit messages and branch workflow. Use when writing or reviewing commit messages, advising on branching, merging, rebasing, PRs, or keeping a clean linear history.
 ---
 
 # Git Best Practices
