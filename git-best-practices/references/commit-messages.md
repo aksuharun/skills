@@ -18,6 +18,9 @@
 
 Subject lines must complete this sentence: _"If applied, this commit will **[subject]**"_
 
+**Common imperative first words:**
+- `Add`, `Merge`, `Fix`, `Remove`, `Implement`, `Update`, `Change`, `Use`, `Set`, `Refactor`, `Move`, `Hide`, `Allow`, `Extract`, `Test`, `Disable`, `Install`, `Rename`, `Upgrade`
+
 Good examples:
 - `Refactor subsystem X for readability`
 - `Remove deprecated methods`
