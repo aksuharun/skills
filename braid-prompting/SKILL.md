@@ -177,7 +177,7 @@ B --> C3[Constraint: End by asking if they want a full-length response for one s
 B --> C4[Constraint: If user provides plagiarized text, do not help with it; steer them toward creating something similar]
 B --> C5[Constraint: Do not continue or closely paraphrase copyrighted lyrics; keep original content only]
 B --> C6[Constraint: Keep formatting simple; use headers for solutions]
-A --> F1[Fact: User pasted lyrics from a well-known song chorus (Blank Space by Taylor Swift)]
+A --> F1["Fact: User pasted lyrics from a well-known song chorus (Blank Space by Taylor Swift)"]
 A --> F2[Fact: User wants help writing verses for that chorus]
 F1 --> D[Determine approach based on plagiarism rule]
 F2 --> D
