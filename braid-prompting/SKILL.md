@@ -1,6 +1,6 @@
 ---
 name: braid-prompting
-description: Create BRAID prompts from the paper "BRAID: Bounded Reasoning for Autonomous Inference and Decisions". Use when the user asks to create, generate, evaluate, or apply BRAID prompts, Mermaid reasoning graphs, bounded reasoning prompts, structured symbolic reasoning plans, or cost-efficient agent prompting based on BRAID.
+description: Create BRAID prompts from the paper "BRAID (Bounded Reasoning for Autonomous Inference and Decisions)". Use when the user asks to create, generate, evaluate, or apply BRAID prompts, Mermaid reasoning graphs, bounded reasoning prompts, structured symbolic reasoning plans, or cost-efficient agent prompting based on BRAID.
 ---
 
 # BRAID Prompting
