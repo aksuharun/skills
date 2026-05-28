@@ -42,6 +42,7 @@ This makes all skills in this repository available to your AI agent automaticall
 | `lucide-icons` | Use Lucide icons correctly across React, Vue, Svelte, Solid, Preact, Angular, Astro, React Native, Vanilla JS, and static environments |
 | `milkdown` | Build WYSIWYG Markdown editors with Milkdown using Crepe or Kit, with framework integration for React, Vue, Angular, Svelte, and more |
 | `raison-sdk` | Raison JavaScript/TypeScript prompt management SDK for rendering templates and querying prompt data |
+| `braid-prompting` | Create structured BRAID reasoning prompts using Mermaid diagrams for bounded, cost-efficient agent inference |
 | `readme-creator` | Creates high-quality, standardized README.md files for open-source software projects |
 | `reka-ui` | Use when building accessible Vue.js interfaces with Reka UI (Radix Vue) |
 
@@ -54,6 +55,7 @@ Once installed, your AI agent will automatically discover and use these skills w
 - *Set up Raison SDK to manage prompts in my Express app*
 - *Add a Lucide icon to my React component*
 - *Add an accessible accordion with Reka UI to my Vue application*
+- *Create a BRAID reasoning graph for this task*
 - *Set up a Milkdown editor in my React app with slash commands and toolbar*
 
 ## Learn More
