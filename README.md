@@ -45,6 +45,7 @@ This makes all skills in this repository available to your AI agent automaticall
 | `braid-prompting` | Create structured BRAID reasoning prompts using Mermaid diagrams for bounded, cost-efficient agent inference |
 | `readme-creator` | Creates high-quality, standardized README.md files for open-source software projects |
 | `reka-ui` | Use when building accessible Vue.js interfaces with Reka UI (Radix Vue) |
+| `memgoose` | Use memgoose for Mongoose-like in-memory databases, backend testing, storage selection, aggregation, and query/model work |
 
 ## Usage
 
@@ -57,6 +58,7 @@ Once installed, your AI agent will automatically discover and use these skills w
 - *Add an accessible accordion with Reka UI to my Vue application*
 - *Create a BRAID reasoning graph for this task*
 - *Set up a Milkdown editor in my React app with slash commands and toolbar*
+- *Use memgoose to replace mongoose in backend tests*
 
 ## Learn More
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memgoose"
+  short_description: "Use memgoose for Mongoose-like tests"
+  default_prompt: "Use $memgoose to set up backend tests with an in-memory Mongoose-compatible database."
