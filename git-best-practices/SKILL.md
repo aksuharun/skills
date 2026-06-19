@@ -5,10 +5,11 @@ description: Git best practices for commit messages and branch workflow. Use whe
 
 # Git Best Practices
 
-Two core areas:
+Three core areas:
 
 1. **Commit messages** — how to write clear, meaningful commit messages
 2. **Branch workflow** — how to keep a clean, linear history using rebase
+3. **Branch naming** — how to name branches clearly without noisy prefixes
 
 Read the relevant reference file(s) before advising.
 
@@ -16,3 +17,4 @@ Read the relevant reference file(s) before advising.
 
 - **[references/commit-messages.md](references/commit-messages.md)** — The 7 rules for great commit messages. Read when writing, reviewing, or advising on commit messages.
 - **[references/git-workflow.md](references/git-workflow.md)** — Rebase-first branch workflow for clean history. Read when advising on branching strategy, PRs, merging, or conflict resolution.
+- **[references/branch-naming.md](references/branch-naming.md)** — Flat, descriptive branch naming guidance. Read when creating or reviewing branch names.
